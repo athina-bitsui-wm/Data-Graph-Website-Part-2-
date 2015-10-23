@@ -1,0 +1,25 @@
+#body {
+    text-align: center;
+    background: #0029ff;
+    margin: auto;
+}
+#container {
+    background-color: #44b5ff;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#header {
+    text-align: center;
+    background-color: #6de1ff;
+}
+#nav {
+    width: 160px;
+    float: right;
+    background-color: #c1fff0;
+}
+#main {
+    width: 600px;
+    float: left;
+    background-color: #c1fff0;
+}
